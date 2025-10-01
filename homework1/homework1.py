@@ -175,4 +175,3 @@ print("3.5: Terminal Commands")
 # 4: For rm; -f forces removal; Type rm -f <filename> to remove said file;-i prompts before removal;
 # Type rm -i <filename> to remove said file with a prompt;-r recursively removes directories and their contents; Type rm -r directory_name
 
-

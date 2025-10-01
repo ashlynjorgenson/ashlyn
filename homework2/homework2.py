@@ -72,6 +72,7 @@
 
 # 19) Print your favorite math expression you've learned in Python so far. 
 # (Hint: Use print() and add a comment explaining what it does.)
-a= 1000000
-b= 10
-print(a ** b) # raises a to the b power
+#a= 1000000
+#b= 10
+#print(a ** b) # raises a to the b power c
+print("gay")
