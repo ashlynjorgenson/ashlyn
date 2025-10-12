@@ -1,0 +1,36 @@
+1. List 5 topics related to astronomy, physics, technology, science or math that sound interesting
+to you.
+	i) exoplanets
+	ii) how life forms on planets
+	iii) the engineering of Mars rovers or the spacecraft that takes them there
+	iv) how data is transmitted and recieved from deep space probes
+	v) rockets 
+2. For three of these topics, find a dataset, tool, news article, or paper online that relates to it.
+Summarize how each source relates to the topic in your own words.
+
+iii) the engineering of Mars rovers:
+Source: https://science.nasa.gov/mission/mars-2020-perseverance/rover-components/
+
+NASA's Mars rovers are nothing short of impressive engineering projects. These Mars rovers are all sent with different missions, but ultimately, the goal is only one thing; to find out
+if we're alone in the universe, and if Mars was a previously inhabited planet. The most recent mission is the Mars Perserverance rover, which was sent in 2020, and landed in 2021. It's
+goal was to seek evidence of ancient life and collect rock samples to attempt to return back to earth for further study. This source describes the components on the Perserverance rover
+including things like the rover's "head," "legs," "arms," "brain," etc. as well as the specs for the components within those structures
+
+iv) how data is transmitted and recieved from deep space probes:
+Source: https://science.howstuffworks.com/question431.htm#:~:text=The%20Voyager%20spacecraft%20has%20an,into%20meaningful%20data%20for%20analysis.
+This source describes voyager 1's radio transmitter system and the size of the dish we have on earth that recieves the data. 
+
+v) rockets:
+tool: experience building amateur high-powered rockets
+I worked on two high-powered, competition projects during my junior and senior year of high school. The first rocket was a hybrid that went to about 11,000ft and the second one was a
+fully liquid rocket that went 6,500ft and was recovered successfully. Rockets are my passion.
+
+
+3. Choose one topic and brainstorm how you could Python skills (loops, conditionals, functions,
+lists/dictionaries, github, version control) to explore, analyze or create something with it.
+
+
+
+4. Write down at least two possible project ideas connected to your topic. One should be
+ambitious (a “dream” version) and the other should be smaller, simpler version that you
+could realistically finish in a few weeks.
