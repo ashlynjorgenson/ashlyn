@@ -1,0 +1,50 @@
+parameters:
+- Habitable zone score
+	* Where liquid water can exist
+	* Large, gaseous planets tend to be far less inhabitable
+	* main focus is the star of the exoplanet. Hotter stars have a larger habitable zone
+	* Most exoplanets that are similar in size to Earth are orbiting red-dwarf stars that have small
+	habitable zones
+		- These planets are close to their star and are exposed to large levels of x-ray and UV
+		radiation
+	* Sun-like stars are preferred
+	* planets in large orbits around sun-like stars are harder to detect
+	* young red-dwarfs tend to erupt with flares that sterilze orbiting planets where life could
+	begin to form
+	* Cooler and less luminous stars called orange dwarfs could be better for advanced life
+	* K dwarfs are the real goldilocks stars because they:
+		- long lifespan
+		- stable luminosity
+	* similar planet size to Earth
+	* planet temperature
+	* star type
+	* orbital distance
+	* Semi- major axis and eccentricity (planet's distance from the star)
+
+- Atmosphere Score
+	* density
+	* mass
+	* possibility of water
+	* pressure
+	* elements present
+
+- Surface Temperature
+
+- 
+
+- Include discovery method
+
+Methods:
+- Can use if statements to determine if an inputted planet (based off of my own database) meets a
+condition
+- Determine a weight distribution for how important each parameter is.
+
+	* Star Type Score 10%
+	* Habitable Zone Score 45%
+	* Planet Size (Earth) Score 15%
+	* Atmosphere Score 30%
+
+- Note:
+	* TRAPPIST-1 star system contains 7 earth-like planets
+	* Habitable zone = 0.95 AU to 1.67 AU
+	* Temperature = -20 C to 122 C

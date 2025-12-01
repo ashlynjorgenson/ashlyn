@@ -1,0 +1,15 @@
+Index,Planetary Name,Star Type,Orbital Semi-Major Axis [AU],Planet Radius [Earth Radius],Mass [Earth's],Habitable Zone of Star,Atmosphere,Discovery Method
+1,Mercury,G2V,0.387098,0.3829,0.055,0.5 - 2.0 AU,"O, Na, H, He, K",Telescope
+2,Venus,G2V,0.72,0.9499,0.815,0.5 - 2.0 AU,CO2,Telescope
+3,Earth,G2V,1.0,1.0,1.0,0.5 - 2.0 AU,"N, O",N/A
+4,Mars,G2V,1.524,0.53213,0.107,0.5 - 2.0 AU,"CO2, N, Ar",Telescope
+5,Jupiter,G2V,5.2038,11.209,317.8,0.5 - 2.0 AU,,Telescope
+6,Saturn,G2V,9.5826,9.1402,95.16,0.5 - 2.0 AU,,Telescope
+7,Uranus,G2V,19.191,4.007,14.53,0.5 - 2.0 AU,,Telescope
+8,Neptune,G2V,30.07,3.883,17.15,0.5 - 2.0 AU,,Telescope
+9,Titan,G2V,0.00817,0.404,0.0225,0.5 - 2.0 AU,,Telescope
+10,TRAPPIST-1b,M,0.0115,1.12,0.79,0.022 - 0.032 AU,,Transit
+11,TRAPPIST-1c,M,0.0158,1.1,1.63,0.022 - 0.032 AU,,Transit
+12,TRAPPIST-1e,M,0.0293,0.91,0.24,0.022 - 0.032 AU,,Transit
+13,Proxima Centauri b,M,0.04848,1.055,1.07,0.023 - 0.054 AU,,Radial Velocity
+14,Kepler 16b,K,0.7048,8.44,433,0.365 -0.527 AU,,
